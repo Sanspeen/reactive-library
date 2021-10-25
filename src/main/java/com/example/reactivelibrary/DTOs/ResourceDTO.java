@@ -1,4 +1,4 @@
-package com.example.reactivelibrary.DTO;
+package com.example.reactivelibrary.DTOs;
 
 import java.time.LocalDate;
 
